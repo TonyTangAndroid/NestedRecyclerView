@@ -1,6 +1,4 @@
-/.idea/*
-!/.idea/inspectionProfiles
-!/.idea/codeStyleSettings.xml
+.idea
 /captures
 /local.properties
 /test
